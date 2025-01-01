@@ -1,8 +1,8 @@
- /* Copyright (c) 2020 MTHS All rights reserved
+  /* Copyright (c) 2020 MTHS All rights reserved
  *
  * Created by: Mohammed Afheej
- * Created on:
- * This program makes a car 
+ * Created on: december 2024  
+ * This program makes a car move when and when it gets to close to something stops  
 */
 
 // defining variables and showing happy face
